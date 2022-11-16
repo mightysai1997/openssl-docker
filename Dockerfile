@@ -6,4 +6,4 @@ LABEL maintainer "ian@iay.org.uk"
 #
 #RUN apk add --no-cache \
 #	openssl
-RUN apt-get -y install openssl=3.0.6
+RUN apt-get -y install openssl
